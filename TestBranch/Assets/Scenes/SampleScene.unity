@@ -1231,7 +1231,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1667589725
+=======
+--- !u!1 &1625471485
+>>>>>>> Mahyar_Asl
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1239,24 +1243,41 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1667589726}
   m_Layer: 0
   m_Name: Hosein
+=======
+  - component: {fileID: 1625471486}
+  m_Layer: 0
+  m_Name: Ali
+>>>>>>> Mahyar_Asl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1667589726
+=======
+--- !u!4 &1625471486
+>>>>>>> Mahyar_Asl
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1667589725}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 423.86172, y: 73.656586, z: 347.8313}
+=======
+  m_GameObject: {fileID: 1625471485}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 172.33932, y: 23.960814, z: 101.648735}
+>>>>>>> Mahyar_Asl
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1722,4 +1743,8 @@ SceneRoots:
   - {fileID: 1498827894}
   - {fileID: 150057341}
   - {fileID: 1454667515}
+<<<<<<< HEAD
   - {fileID: 1667589726}
+=======
+  - {fileID: 1625471486}
+>>>>>>> Mahyar_Asl
